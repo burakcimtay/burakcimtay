@@ -1,7 +1,7 @@
 ### Hello Everyone! 👋
 ![8aa4595fb24b6ed585dddac4622b2445](https://user-images.githubusercontent.com/73792173/118365562-f3d53680-b5a5-11eb-8449-4f60d4af4eb3.gif)
 
-Hello I'm Burak. I'm working on Deep Learning(Computer Vision). I competed in the CanSat 2020 Competition. I participate in the "Artificial Intelligence in Health" contest at Teknofest 2021.
+Hello I'm Burak. I'm working on Deep Learning(Computer Vision). I competed in the CanSat 2020 Competition. I participate in the "Artificial Intelligence in Health" contest at Teknofest 2021 (Finalist).
 
 <br/>**📫 My Contact Information:** <br/>
 
